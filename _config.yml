@@ -12,7 +12,7 @@ title_separator: "-"
 name: &name "GirlsWhoML"
 description: &description "GirlsWhoML is an intitiative to get more women into machine learning."
 url: https://www.girlswhoml.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/dist" # the subpath of your site, e.g. "/blog"
+baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "girlswhoml/girlswhoml.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
